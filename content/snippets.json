@@ -1,29 +1,37 @@
 {
   "categories": [
     {
-      "name": "Доставка",
+      "name": "Retour",
       "snippets": [
         {
-          "title": "Задержка доставки — стандартный ответ",
-          "text": "Bedankt voor uw e-mail.\n\nUw bestelling is helaas vertraagd. We doen ons uiterste best om deze zo snel mogelijk bij u te bezorgen en houden u op de hoogte van elke update.\n\nOnze excuses voor het ongemak.\n\nMet vriendelijke groet,\nService client Geberich"
+          "title": "Retourbewijs",
+          "text": "Beste klant,\n\nNaar aanleiding van uw e-mail sturen wij u dit antwoord.\n\nWij verzoeken u vriendelijk om uw retourbewijs en het ordernummer van uw bestelling door te geven, zodat wij de retour kunnen bevestigen.\n\nMet vriendelijke groet,\n\n**Service Client**  \nGeberich Team"
+        },
+        {
+          "title": "Retourformulier",
+          "text": "Beste klant,\n\nNaar aanleiding van uw e-mail sturen wij u dit antwoord.\n\nHierbij sturen wij u het retourformulier om uw bestelling te kunnen retourneren.\nWij verzoeken u vriendelijk om de retourbevestiging van uw bestelling door te geven, zodat wij deze situatie kunnen onderzoeken.\n\nMet vriendelijke groet,\n\n**Service Client**  \nGeberich Team"
+        },
+        {
+          "text": "Beste klant,\n\nBedankt voor uw bericht. \n\nWij bevestigen hierbij dat wij uw retourzending in goede orde hebben ontvangen.\nDe betalingsherinneringen worden stopgezet.\n\nMet vriendelijke groet,\n\n**Service Client**\nGeberich Team",
+          "title": "Retour ontvangen"
         }
       ]
     },
     {
-      "name": "Возврат",
+      "name": "Factuur",
       "snippets": [
         {
-          "title": "Инструкция по возврату товара",
-          "text": "Bedankt voor uw e-mail.\n\nOm uw retour te verwerken, verzoeken wij u het artikel terug te sturen naar het op de retourbon vermelde adres, samen met de ingevulde retourbon.\n\nZodra wij het pakket ontvangen hebben, wordt uw terugbetaling binnen 5-7 werkdagen verwerkt.\n\nMet vriendelijke groet,\nService client Geberich"
+          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nHierbij sturen wij u uw factuur met QR-code, zodat u uw betaling via de QR-code kunt voltooien.\n\nMet vriendelijke groet,\nService client Geberich",
+          "title": "Factuur"
         }
       ]
     },
     {
-      "name": "Жалобы",
+      "name": "Betaling",
       "snippets": [
         {
-          "title": "Общий ответ на жалобу",
-          "text": "Bedankt voor uw e-mail.\n\nHet spijt ons te horen dat uw ervaring niet aan uw verwachtingen heeft voldaan. Wij nemen uw feedback serieus en onderzoeken de situatie zo snel mogelijk.\n\nWij nemen binnen 24 uur opnieuw contact met u op.\n\nMet vriendelijke groet,\nService client Geberich"
+          "title": "Betaling ontvangen",
+          "text": "Beste klant,\n\nNaar aanleiding van uw e-mail sturen wij u dit antwoord.\n\nWij hebben uw betaling in goede orde ontvangen. De betalingsherinneringen worden stopgezet.\n\nMet vriendelijke groet,\n\n**Service Client**  \nGeberich Team"
         }
       ]
     }
