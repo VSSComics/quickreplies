@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "name": "Доставка",
+      "snippets": [
+        {
+          "title": "Задержка доставки — стандартный ответ",
+          "text": "Bedankt voor uw e-mail.\n\nUw bestelling is helaas vertraagd. We doen ons uiterste best om deze zo snel mogelijk bij u te bezorgen en houden u op de hoogte van elke update.\n\nOnze excuses voor het ongemak.\n\nMet vriendelijke groet,\nService client Geberich"
+        }
+      ]
+    },
+    {
+      "name": "Возврат",
+      "snippets": [
+        {
+          "title": "Инструкция по возврату товара",
+          "text": "Bedankt voor uw e-mail.\n\nOm uw retour te verwerken, verzoeken wij u het artikel terug te sturen naar het op de retourbon vermelde adres, samen met de ingevulde retourbon.\n\nZodra wij het pakket ontvangen hebben, wordt uw terugbetaling binnen 5-7 werkdagen verwerkt.\n\nMet vriendelijke groet,\nService client Geberich"
+        }
+      ]
+    },
+    {
+      "name": "Жалобы",
+      "snippets": [
+        {
+          "title": "Общий ответ на жалобу",
+          "text": "Bedankt voor uw e-mail.\n\nHet spijt ons te horen dat uw ervaring niet aan uw verwachtingen heeft voldaan. Wij nemen uw feedback serieus en onderzoeken de situatie zo snel mogelijk.\n\nWij nemen binnen 24 uur opnieuw contact met u op.\n\nMet vriendelijke groet,\nService client Geberich"
+        }
+      ]
+    }
+  ]
+}
