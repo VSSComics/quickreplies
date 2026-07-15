@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: YOUR-GITHUB-USERNAME/quickreplies
+  repo: VSSComics/quickreplies
   branch: main
 
 media_folder: "content/uploads"
