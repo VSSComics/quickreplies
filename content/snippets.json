@@ -1,32 +1,40 @@
 {
   "categories": [
     {
-      "name": "Retour",
+      "name": "Algemeen",
       "snippets": [
         {
-          "title": "Retourbewijs",
-          "text": "Beste klant,\n\nNaar aanleiding van uw e-mail sturen wij u dit antwoord.\n\nWij verzoeken u vriendelijk om uw retourbewijs en het ordernummer van uw bestelling door te geven, zodat wij de retour kunnen bevestigen.\n\nMet vriendelijke groet,\n\n**Service Client**  \nGeberich Team"
+          "title": "Ordernummer",
+          "text": "Beste klant,\n\nBedankt voor uw bericht.\n\nWij verzoeken u vriendelijk om uw ordernummer door te geven, zodat wij deze situatie kunnen onderzoeken. Het ordernummer is ook zichtbaar op de betalingsherinnering.\n\nMet vriendelijke groet,\nService client Geberich"
         },
         {
-          "title": "Retourformulier",
-          "text": "Beste klant,\n\nNaar aanleiding van uw e-mail sturen wij u dit antwoord.\n\nHierbij sturen wij u het retourformulier om uw bestelling te kunnen retourneren.\nWij verzoeken u vriendelijk om de retourbevestiging van uw bestelling door te geven, zodat wij deze situatie kunnen onderzoeken.\n\nMet vriendelijke groet,\n\n**Service Client**  \nGeberich Team"
+          "title": "Meer informatie",
+          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nWij verzoeken u vriendelijk om meer informatie door te geven, zodat wij de situatie kunnen onderzoeken en u kunnen helpen.\n\nMet vriendelijke groet,\nService client Geberich"
         },
         {
-          "text": "Beste klant,\n\nBedankt voor uw bericht. \n\nWij bevestigen hierbij dat wij uw retourzending in goede orde hebben ontvangen.\nDe betalingsherinneringen worden stopgezet.\n\nMet vriendelijke groet,\n\n**Service Client**\nGeberich Team",
-          "title": "Retour ontvangen"
-        },
-        {
-          "title": "Retourbon",
-          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nHelaas kunnen wij u geen aparte retourbon toesturen. Wel ontvangt u van ons een retourformulier, dat u samen met uw bestelling kunt retourneren.\n\nWij verzoeken u vriendelijk om ons de retourbevestiging door te geven zodra u het pakket heeft verzonden, zodat wij dit voor u kunnen opvolgen.\n\nMocht u nog vragen hebben, dan staan wij uiteraard voor u klaar.\n\nMet vriendelijke groet,\nService client Geberich"
+          "title": "Situatue is doorgegeven",
+          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nWij hebben uw situatie doorgegeven aan de desbetreffende afdeling. U wordt binnenkort gecontacteerd.\n\nMet vriendelijke groet,\nService client Geberich"
         }
       ]
     },
     {
-      "name": "Factuur",
+      "name": "Retour",
       "snippets": [
         {
-          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nHierbij sturen wij u uw factuur met QR-code, zodat u uw betaling via de QR-code kunt voltooien.\n\nMet vriendelijke groet,\nService client Geberich",
-          "title": "Factuur"
+          "title": "Retourbewijs",
+          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nWij verzoeken u vriendelijk om uw retourbewijs en het ordernummer van uw bestelling door te geven, zodat wij de retour kunnen bevestigen.\n\nMet vriendelijke groet,\n\n**Service Client**  \nGeberich Team"
+        },
+        {
+          "title": "Retourformulier",
+          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nHierbij sturen wij u het retourformulier om uw bestelling te kunnen retourneren.\nWij verzoeken u vriendelijk om de retourbevestiging van uw bestelling door te geven, zodat wij deze situatie kunnen onderzoeken.\n\nMet vriendelijke groet,\n\n**Service Client**  \nGeberich Team"
+        },
+        {
+          "title": "Retourbon",
+          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nHelaas kunnen wij u geen aparte retourbon toesturen. Wel ontvangt u van ons een retourformulier, dat u samen met uw bestelling kunt retourneren.\n\nWij verzoeken u vriendelijk om ons de retourbevestiging door te geven zodra u het pakket heeft verzonden, zodat wij dit voor u kunnen opvolgen.\n\nMocht u nog vragen hebben, dan staan wij uiteraard voor u klaar.\n\nMet vriendelijke groet,\nService client Geberich"
+        },
+        {
+          "text": "Beste klant,\n\nBedankt voor uw bericht. \n\nWij bevestigen hierbij dat wij uw retourzending in goede orde hebben ontvangen.\nDe betalingsherinneringen worden stopgezet.\n\nMet vriendelijke groet,\n\n**Service Client**\nGeberich Team",
+          "title": "Retour ontvangen"
         }
       ]
     },
@@ -34,8 +42,20 @@
       "name": "Betaling",
       "snippets": [
         {
+          "title": "Betaling bevestiging aanvragen",
+          "text": "Beste klant,\n\nNaar aanleiding van uw e-mail sturen wij u dit antwoord.\n\nOm deze situatie te kunnen onderzoeken hebben wij een betalingsbevestiging nodig. Wij verzoeken u vriendelijk om deze informatie door te geven.\n\nMet vriendelijke groet,\n\n**Service Client**  \nGeberich Team"
+        },
+        {
           "title": "Betaling ontvangen",
-          "text": "Beste klant,\n\nNaar aanleiding van uw e-mail sturen wij u dit antwoord.\n\nWij hebben uw betaling in goede orde ontvangen. De betalingsherinneringen worden stopgezet.\n\nMet vriendelijke groet,\n\n**Service Client**  \nGeberich Team"
+          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nWij hebben uw betaling in goede orde ontvangen. De betalingsherinneringen worden stopgezet.\n\nMet vriendelijke groet,\n\n**Service Client**\nGeberich Team"
+        },
+        {
+          "title": "Klant heeft betaald maar we zien geen betaling",
+          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nU heeft doorgegeven dat u betaald heeft, maar helaas zien wij geen betaling binnen voor deze bestelling. Wij verzoeken u vriendelijk om een foto van de betaling als bijlage door te geven in uw antwoord op deze e-mail.\n\nMet vriendelijke groet,\nService client Geberich"
+        },
+        {
+          "title": "Factuur",
+          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nHierbij sturen wij u onze bankgegevens en uw factuur met QR-code, zodat u uw betaling via de QR-code kunt voltooien.\n\nU kunt eenvoudig betalen via de QR-code.\n\nHiervoor heeft u geen QR-codelezer nodig, u kunt gewoon uw telefoon gebruiken.\n\nZo werkt het:\n\n 1. Open de camera op uw telefoon en richt deze op de QR-code.\n\n 2. Er verschijnt een gele link op uw scherm, tik daarop.\n\n 3. U wordt doorgestuurd naar iDEAL.\n\n 4. Vul uw e-mailadres in en klik op Verder.\n\n 5. Kies uw betaalmethode en rond de betaling af.\n\n\n\nBij de bankoverschrijving :\n\nIBAN-bankgegevens: EE721010011931093220\n\nTen name van: Geberich OÜ\n\nSWIFT/BIC: EEUHEE2X ( INDIEN NODIG )\n\nGelieve uw ordernummer te vermelden bij de bankoverschrijving.\n\nMet vriendelijke groet,\nService client Geberich"
         }
       ]
     }
