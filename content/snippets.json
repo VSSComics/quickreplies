@@ -14,6 +14,10 @@
         {
           "title": "Situatue is doorgegeven",
           "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nWij hebben uw situatie doorgegeven aan de desbetreffende afdeling. U wordt binnenkort gecontacteerd.\n\nMet vriendelijke groet,\nService client Geberich"
+        },
+        {
+          "title": "Gebruiksaanwijzing te lezen",
+          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nWij verzoeken u vriendelijk om de gebruiksaanwijzing te lezen die u met het product heeft ontvangen, voor alle duidelijkheid.\n\nMet vriendelijke groet,\nService client Geberich"
         }
       ]
     },
@@ -59,7 +63,7 @@
         },
         {
           "title": "Factuur",
-          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nHierbij sturen wij u onze bankgegevens en uw factuur met QR-code, zodat u uw betaling via de QR-code kunt voltooien.\n\nU kunt eenvoudig betalen via de QR-code.\n\nHiervoor heeft u geen QR-codelezer nodig, u kunt gewoon uw telefoon gebruiken.\n\nZo werkt het:\n\n 1. Open de camera op uw telefoon en richt deze op de QR-code.\n\n 2. Er verschijnt een gele link op uw scherm, tik daarop.\n\n 3. U wordt doorgestuurd naar iDEAL.\n\n 4. Vul uw e-mailadres in en klik op Verder.\n\n 5. Kies uw betaalmethode en rond de betaling af.\n\n\n\nBij de bankoverschrijving :\n\nIBAN-bankgegevens: EE721010011931093220\n\nTen name van: Geberich OÜ\n\nSWIFT/BIC: EEUHEE2X ( INDIEN NODIG )\n\nGelieve uw ordernummer te vermelden bij de bankoverschrijving.\n\nMet vriendelijke groet,\nService client Geberich"
+          "text": "Beste klant,\n\nBedankt voor uw e-mail.\n\nHierbij sturen wij u onze bankgegevens en uw factuur met QR-code, zodat u uw betaling via de QR-code kunt voltooien.\n\nU kunt eenvoudig betalen via de QR-code.\n\nHiervoor heeft u geen QR-codelezer nodig, u kunt gewoon uw telefoon gebruiken.\n\nZo werkt het:\n\n 1. Open de camera op uw telefoon en richt deze op de QR-code.\n\n 2. Er verschijnt een gele link op uw scherm, tik daarop.\n\n 3. U wordt doorgestuurd naar iDEAL.\n\n 4. Vul uw e-mailadres in en klik op Verder.\n\n 5. Kies uw betaalmethode en rond de betaling af.\n\n\n\nBij de bankoverschrijving :\n\nIBAN-bankgegevens: EE721010011931093220\n\nTen name van: Geberich OÜ\n\nSWIFT/BIC: EEUHEE2X ( INDIEN NODIG )\n\nLand: Estland\n\nGelieve uw ordernummer te vermelden bij de bankoverschrijving.\n\nMet vriendelijke groet,\nService client Geberich"
         }
       ]
     }
